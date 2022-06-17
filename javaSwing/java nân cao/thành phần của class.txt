@@ -1,0 +1,2 @@
+thành phần của lớp: thuộc tính,phương thức
+static thành phần chung cần dùng cho cùng đối tượng
